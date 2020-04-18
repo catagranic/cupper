@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Catugo"
-baseURL = "http://catu.ga/cupper/"
+baseURL = "https://catagranic.github.io/cupper/"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"

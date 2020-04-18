@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Name Of This Project/Site on Catugo</title>
-    <link>http://catu.ga/cupper/</link>
+    <link>https://catagranic.github.io/cupper/</link>
     <description>Recent content in The Name Of This Project/Site on Catugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://catu.ga/cupper/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://catagranic.github.io/cupper/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cupper</title>
-      <link>http://catu.ga/cupper/print-version/</link>
+      <link>https://catagranic.github.io/cupper/print-version/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://catu.ga/cupper/print-version/</guid>
+      <guid>https://catagranic.github.io/cupper/print-version/</guid>
       <description>You don&amp;rsquo;t want to edit this file :-)</description>
     </item>
     
     <item>
       <title>My First Pattern File</title>
-      <link>http://catu.ga/cupper/patterns/pattern/</link>
+      <link>https://catagranic.github.io/cupper/patterns/pattern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://catu.ga/cupper/patterns/pattern/</guid>
+      <guid>https://catagranic.github.io/cupper/patterns/pattern/</guid>
       <description>You can just write markdown here. But don&amp;rsquo;t forget there are lots of shortcodes to help you with writing and showing off code too. See the documentation for Cupper for full details.
 Here&amp;rsquo;s an example of a note shortcode for adding little &amp;ldquo;oh and also&amp;rdquo; notes to your patterns&amp;rsquo; documentation.</description>
     </item>
