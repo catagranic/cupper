@@ -1,10 +1,10 @@
 languageCode = "en-us"
-title = "Cupper"
-baseURL = "https://thepaciellogroup.github.io/cupper/"
+title = "Catugo"
+baseURL = "http://catu.ga/cupper/"
 canonifyURLs = true
 theme = "cupper"
 publishDir = "docs"
 
 [params]
-  description = "Documentation for the **Cupper** documentation builder, built with **Cupper** itself."
+  description = "Lorem Ipsum is simply ***dummy*** text of the ***printing*** and ***typesetting*** industry."
   codePenUser = "Heydon"
